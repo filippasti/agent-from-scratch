@@ -1,0 +1,4 @@
+Projektnotizen Agent
+- API-Key liegt in .env
+- Nächster Schritt: MCP-Server
+- Deadline für Bewerbungen: Ende Oktober
